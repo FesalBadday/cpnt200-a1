@@ -7,11 +7,14 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "preinstall": "npx npm-force-resolutions"
+    "preinstall": "npx npm-force-resolutions",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "core-js": "^3.15.1",
+    "gh-pages": "^3.2.3",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
