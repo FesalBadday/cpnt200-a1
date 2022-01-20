@@ -1,4 +1,4 @@
-# Assignment 1 - Nuxt Frontend Setup
+# Nuxt Frontend Setup
 
 ---
 
