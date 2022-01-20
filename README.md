@@ -4,9 +4,9 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt200-a1)
+**Repo :** [Github Repo](https://github.com/FesalBadday/nuxt-frontend)
 
-**Site :** [Github Pages](https://FesalBadday.github.io/cpnt200-a1)
+**Site :** [Github Pages](https://FesalBadday.github.io/nuxt-frontend)
 
 ---
 
